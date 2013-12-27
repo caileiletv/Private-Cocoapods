@@ -6,4 +6,5 @@ Pod::Spec.new do |s|
   s.author       = { "CaiLei" => "cailei_letv@outlook.com" }
   s.source       = { :git => "https://github.com/caileiletv/PrivateLibrary.git", :tag => "0.0.1" }
   s.source_files  = 'PrivateLibrary'
+  s.homepage     = "www.baidu.com"
 end
